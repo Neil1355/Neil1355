@@ -2,8 +2,7 @@
 
 # Hi, I'm Neil Barot
 
-**Double Major in Computer Science & Cognitive Science at Rutgers University-New Brunswick** 
-*Aspiring Software Engineer and AI Developer*
+**Double Major in Computer Science & Cognitive Science at Rutgers University-New Brunswick**                                                                 *Aspiring Software Engineer and AI Developer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
