@@ -2,7 +2,8 @@
 
 # Hi, I'm Neil Barot
 
-**Double Major in Computer Science & Cognitive Science at Rutgers University-New Brunswick** *Aspiring Software Engineer and AI Developer*
+**Double Major in Computer Science & Cognitive Science at Rutgers University-New Brunswick** 
+*Aspiring Software Engineer and AI Developer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -36,8 +37,8 @@ I am a Junior at Rutgers University double majoring in Computer Science and Cogn
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Neil's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Neil1355&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Neil's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Neil1355&layout=compact&theme=visual_studio_dark" alt="Top Languages" height="180px" />
 </div>
 
 ---
